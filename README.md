@@ -108,6 +108,5 @@ This project demonstrates how pose estimation combined with simple biomechanical
 
 ---
 
-## Repository Structure
 
 
