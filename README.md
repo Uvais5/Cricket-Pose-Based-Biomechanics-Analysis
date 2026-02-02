@@ -107,6 +107,11 @@ The elbow range of motion suggests significant arm extension, aligning with typi
 This project demonstrates how pose estimation combined with simple biomechanical metrics can be used to analyze cricket movement patterns using only video input. The approach is lightweight, interpretable, and suitable for real-world sports analytics applications.
 
 ---
+## Output Video
+
+You can view the pose-estimated output video here:
+
+https://drive.google.com/file/d/1Qto1rRNX1qHwC3WtHI_kMFKhg__iKpgC/view?usp=sharing
 
 
 
